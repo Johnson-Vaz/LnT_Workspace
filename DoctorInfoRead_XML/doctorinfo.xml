@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doctors>
+        <doctor>
+        <doctorName>Dr.Darshan Shetty</doctorName>
+        <speciality>Cardiologist</speciality>
+        <qualification> MBBS, MD (General Medicine),DM (Cardiology)</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Suman N</doctorName>
+        <speciality>Cardiac Surgery - Adult, Cardiac Surgery - Paediatric, Vascular Surgery</speciality>
+        <qualification> MBBS, MD (General Medicine), FSCAI</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Abhijit Mitra</doctorName>
+        <speciality>Consultant � Oral And Maxillofacial Surgeon</speciality>
+        <qualification> BDS, MDS, Mphil</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Harish KV</doctorName>
+        <speciality>Consultant - Physician, Diabetologist, Clinical Cardiologist</speciality>
+        <qualification> BDS, MDS, Mphil (Regenerative Medicine, Manipal University)</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Mukesh Raj</doctorName>
+        <speciality>Consultant - Urology</speciality>
+        <qualification> MD | DM | MRCP (SCE � Gastroenterology and Hepatology)</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Ajay Shanbhag</doctorName>
+        <speciality>Consultant - Psychologist</speciality>
+        <qualification> MS | MCH</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Anil Shetty</doctorName>
+        <speciality>Consultant � Oral And Maxillofacial Surgeon</speciality>
+        <qualification> B.D.S (M.A.H.E) | MA Clinical Psychology (TIET Patiala) | MHA</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Sumukh M</doctorName>
+        <speciality>Consultant � Oral and Maxillo Facial Surgery and Implantology</speciality>
+        <qualification> BDS, MDS, Mphil (Regenerative Medicine, Manipal University), | Fellow AOCMF (Freiburg Germany)</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Kiran Kumar</doctorName>
+        <speciality>Oral and Maxillo Facial Surgery and Implantology</speciality>
+        <qualification> BDS, MDS</qualification>
+        </doctor>
+        <doctor>
+        <doctorName>Dr.Vaneeshree BN</doctorName>
+        <speciality>Consultant - Psychiatry</speciality>
+        <qualification> MBBS | DPM | FIPR(Fellowship In Psychiatric Rehabilitation ) - NIMHANS</qualification>
+</doctor>
+</doctors>
